@@ -1,4 +1,3 @@
-
 let menuBtn = document.querySelector(“#menu-btn”);
 let navbar = document.querySelector(“.header .flex .navbar”);
 
@@ -38,19 +37,4 @@ var swiper = new Swiper(“.reviews-slider”, {
   grabCursor: true,
   loop: true,
   pagination: {
-    el: “.swiper-pagination”,
-    clickable: true,
-  },
-  breakpoints: {
-    540: {
-      slidesPerView: 1,
-    },
-    768: {
-      slidesPerView: 2,
-    },
-    1024: {
-      slidesPerView: 3,
-    },
-  },
-});
-
+ …

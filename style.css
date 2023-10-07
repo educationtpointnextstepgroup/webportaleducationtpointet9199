@@ -268,38 +268,38 @@ section {
     background-color: var(–crimson);
 }
 
-.teachers .slide {
+.Services .slide {
     position: relative;
     overflow: hidden;
     margin-bottom: 4rem;
     user-select: none;
 }
 
-.teachers .slide img {
+.Services .slide img {
     height: 55rem;
     width: 100%;
     object-fit: cover;
     border-radius: .5rem;
 }
 
-.teachers .slide h3 {
+.Services .slide h3 {
     margin-top: 1.5rem;
     font-size: 2rem;
     text-align: center;
     color: var(–black);
 }
 
-.teachers .slide .social {
+.Services .slide .social {
     position: absolute;
     top: 1rem;
     left: -10rem;
 }
 
-.teachers .slide:hover .social {
+.Services .slide:hover .social {
     left: 2rem;
 }
 
-.teachers .slide .social a {
+.Services .slide .social a {
     display: block;
     margin-top: 1rem;
     height: 4.5rem;
@@ -312,12 +312,12 @@ section {
     font-size: 2rem;
 }
 
-.teachers .slide .social a:hover {
+.Services .slide .social a:hover {
     background-color: var(–crimson);
     color: var(–black);
 }
 
-.reviews-slider .slide {
+.Services -slider .slide {
     border-radius: .5rem;
     background-color: var(–light-bg);
     padding: 2rem;
@@ -325,20 +325,20 @@ section {
     user-select: none;
 }
 
-.reviews-slider .slide p {
+.Services -slider .slide p {
     line-height: 2;
     font-size: 1.6rem;
     color: var(–light-black);
 }
 
-.reviews-slider .slide .user {
+.Services -slider .slide .user {
     display: flex;
     align-items: center;
     gap: 1.5rem;
     margin-top: 1.5rem;
 }
 
-.reviews-slider .slide .user img {
+.Services -slider .slide .user img {
     height: 7rem;
     width: 7rem;
     border-radius: 50%;

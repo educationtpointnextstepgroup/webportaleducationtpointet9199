@@ -276,38 +276,38 @@ section {
 
 
 
-.teachers .slide {
+.Services .slide {
     position: relative;
     overflow: hidden;
     margin-bottom: 4rem;
     user-select: none;
 }
 
-.teachers .slide img {
+.Services .slide img {
     height: 55rem;
     width: 100%;
     object-fit: cover;
     border-radius: .5rem;
 }
 
-.teachers .slide h3 {
+.Services .slide h3 {
     margin-top: 1.5rem;
     font-size: 2rem;
     text-align: center;
     color: var(–black);
 }
 
-.teachers .slide .social {
+.Services .slide .social {
     position: absolute;
     top: 1rem;
     left: -10rem;
 }
 
-.teachers .slide:hover .social {
+.Services .slide:hover .social {
     left: 2rem;
 }
 
-.teachers .slide .social a {
+.Services .slide .social a {
     display: block;
     margin-top: 1rem;
     height: 4.5rem;
@@ -320,7 +320,7 @@ section {
     font-size: 2rem;
 }
 
-.teachers .slide .social a:hover {
+.Services .slide .social a:hover {
     background-color: var(–crimson);
     color: var(–black);
 }
